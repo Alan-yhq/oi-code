@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-    cin.get();
+    cin.get(); //实现输入暂停
     return 0;
 }
